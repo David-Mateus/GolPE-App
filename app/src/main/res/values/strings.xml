@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GolPE</string>
+    <string name="times">Times</string>
+    <string name="noticias">Noticias</string>
+    <string name="estadio">Estadio</string>
+    <string name="historia">Historia</string>
+    <string name="time_age">Ano: %1$s</string>
+    <string name="time_estadio">Estadio: %1$s</string>
+    <string name="estadio_age">Proprietário: %1$s</string>
+    <string name="estadio_capacity">Capacidade: %1$s</string>
+    <string name="news_date">Data: %1$s</string>
+    <string name="news_text">Text: %1$s</string>
+</resources>
